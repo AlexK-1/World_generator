@@ -1,0 +1,8 @@
+images/
+venv/
+.idea/
+__pycache__/
+
+README.md
+main.py
+orig.py
